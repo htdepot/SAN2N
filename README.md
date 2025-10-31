@@ -1,5 +1,3 @@
 # SAN2N
-Self-Supervised Denoising of Diffusion MRI Data via Spatio-Angular Noise2Noise.
+SAN2N: Spatio-Angular Noise2Noise for Self-Supervised Diffusion MRI Denoising
 
-
-The code is being compiled and will be published later
