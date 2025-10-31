@@ -6,7 +6,7 @@
 
 This repository contains the official implementation of **SAN2N**, a self-supervised deep learning method for denoising Diffusion MRI (DMRI) data. SAN2N leverages spatio-angular redundancy in DMRI to construct paired noisy patches for training, eliminating the need for clean ground-truth data.
 
-📌 **Conference Version**: This work is an extension of our ISBI conference paper, which received the **[Best Poster Award Nomination](https://biomedicalimaging.org/2024/best-paper-award-finalists-announced-2/)**💥💥💥.
+📌 **Conference Version**: This work is an extension of our 2024 ISBI conference paper, which received the **[Best Poster Award Nomination](https://biomedicalimaging.org/2024/best-paper-award-finalists-announced-2/)**💥💥💥.
 ![best](./figures/bestpaper.png)  
 
 ---
