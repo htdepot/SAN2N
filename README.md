@@ -72,7 +72,6 @@ python san2n.py
   --sigma_path /path/to/sigma.npy #Path to the estimated noise sigma map\
 ```
 ### 📈 Results
-
 ![Results](./figures/qresult.png)  
 *Figure 2: Qualitative denoising results on simulated DMRI data.*
 
